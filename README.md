@@ -5,6 +5,15 @@ This is a payment gateway system integrating the Ideamart PIN Payment APIs (http
 
 #### Users can pay via their mobile credits or post paid billing (Charging as a service)
 
-### Process
+### Payment Process
+
+1. Enter Mobile Number
+2. One time password will be sent to the mobile
+3. Enter OTP and Confirm
+4. Process Payment
+
+### Demo Screenshots
+
+
 
 (To be updated)
