@@ -14,6 +14,21 @@ This is a payment gateway system integrating the Ideamart PIN Payment APIs (http
 
 ### Demo Screenshots
 
+Enter Mobile Number
+![alt text](https://raw.githubusercontent.com/SurfEdge/ideamart-pin-payment-gateway/master/demo/start.png)
+
+Enter OTP
+![alt text](https://raw.githubusercontent.com/SurfEdge/ideamart-pin-payment-gateway/master/demo/otp.png)
+
+OTP Failed
+![alt text](https://raw.githubusercontent.com/SurfEdge/ideamart-pin-payment-gateway/master/demo/opt_fail.png)
+
+Success
+![alt text](https://raw.githubusercontent.com/SurfEdge/ideamart-pin-payment-gateway/master/demo/success.png)
+
+
+### Configuration
+
 
 
 (To be updated)
